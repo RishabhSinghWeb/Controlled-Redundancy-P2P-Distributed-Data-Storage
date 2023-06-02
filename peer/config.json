@@ -1,0 +1,9 @@
+{
+    "qbittorrent_link": "http://127.0.0.1:5555/",
+    "working_dir": "./collection_files/",
+    "collection_files": ["wikipedia.collection", "discord.collection"],
+    "max_allowed_storage_MB": 1000,
+    "max_allowed_connections" = 200,
+    "volunteer_for_global_archives" = True,
+    "_volunteer_for_global_archives" = "given option will use minimal resources",
+}

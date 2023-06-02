@@ -1,0 +1,8 @@
+{
+	"id":"wikipedia",
+	"torrents":[
+		"pet.torrent",
+		"Titanium.torrent"
+	],
+	"comments": "testing torrents"
+}
